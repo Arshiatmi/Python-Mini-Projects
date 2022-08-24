@@ -36,5 +36,5 @@ f = open("output.py", "w", encoding='utf-8')
 f.write(ans)
 f.close()
 
-if play_code == "run" or play_code == "play" or play_code == "--play":
+if play_code == "run" or play_code == "play" or play_code == "--play" or play_code == "--run":
     os.system("python output.py")
