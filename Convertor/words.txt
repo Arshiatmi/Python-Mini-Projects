@@ -1,0 +1,10 @@
+﻿جمع:sum
+اگر:if
+برای:for
+در:in
+رنج:range
+تا زمانی که:while
+چاپ:print
+ورود:import
+وگرنه:elif
+غیراینصورت:else
